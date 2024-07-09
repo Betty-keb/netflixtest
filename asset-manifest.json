@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/netflixtest/static/css/main.74fd30a0.css",
+    "main.js": "/netflixtest/static/js/main.1f2c093b.js",
+    "static/media/Netflix_Logo_PMS.png": "/netflixtest/static/media/Netflix_Logo_PMS.303904f75553a51bbf31.png",
+    "index.html": "/netflixtest/index.html",
+    "main.74fd30a0.css.map": "/netflixtest/static/css/main.74fd30a0.css.map",
+    "main.1f2c093b.js.map": "/netflixtest/static/js/main.1f2c093b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.74fd30a0.css",
+    "static/js/main.1f2c093b.js"
+  ]
+}
